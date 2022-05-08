@@ -29,21 +29,6 @@
     }
   ],
   "users": [
-    {
-      "name": "hi",
-      "email": "me",
-      "id": 1
-    },
-    {
-      "name": "hi",
-      "email": "me",
-      "id": 2
-    },
-    {
-      "name": "hi",
-      "email": "me",
-      "id": 3
-    }
   ],
   "robots": [
     {
